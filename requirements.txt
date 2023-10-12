@@ -1,0 +1,8 @@
+requests
+openai
+matplotlib
+langchain
+guidance
+llama_index
+pydantic<2.4.0
+transformers
